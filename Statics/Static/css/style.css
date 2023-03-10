@@ -1,0 +1,26 @@
+.top-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #da7979;
+    color: #fff;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  .top-menu a {
+    text-decoration: none;
+  }
+  
+  .top-menu button {
+    background-color: transparent;
+    color: #8f1212;
+    border: none;
+    font-size: inherit;
+    cursor: pointer;
+  }
+  
+  .top-menu button:hover {
+    color: #ccc;
+  }
+  
